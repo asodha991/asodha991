@@ -10,4 +10,3 @@
 - 👯 I’m looking to collaborate on Machine Learning and Data Science end-to-end Projects
 - 💬 Ask me about Data Science and Machine Learning.
 - 📫 How to reach me: asodha991@gmail.com
-- ⚡ Fun fact: ...
