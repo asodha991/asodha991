@@ -3,7 +3,6 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=asodha991&label=Profile%20views&color=0e75b6&style=flat" alt="asodha991" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asodha991" alt="asodha991" /></a> </p>
 
 - 🔭 I’m currently working and Learning **Data science & Machine Learning..**
 
